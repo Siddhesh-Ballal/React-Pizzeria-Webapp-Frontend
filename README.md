@@ -2,7 +2,23 @@
 
 Welcome to Papa Sid's Pizzeria Web App repository! This web application is designed to showcase the delicious offerings of Papa Sid's Pizzeria, where pizza is made with love and served with a smile. It allows customers to explore the menu, place orders, and get a taste of the pizzeria's mouthwatering creations
 
+![HomepageSS](https://github.com/Siddhesh-Ballal/React-Pizzeria-Webapp-Frontend/assets/83124953/fc18916d-fe02-4b7e-9222-ff34c6a689d1)
 
+# Features
+<ul>
+<li /> Menu Exploration: Browse through an extensive menu of signature pizzas, customizable options, appetizers, salads, pasta specialties, beverages, and delectable desserts. 
+
+![MenuPageSS](https://github.com/Siddhesh-Ballal/React-Pizzeria-Webapp-Frontend/assets/83124953/7839fcf1-01e6-49ca-b76b-5e7ada7e3ef5)
+
+<li /> About Us Page: A short page describing the history and introduction of the Pizzeria
+  
+![AboutPageSS](https://github.com/Siddhesh-Ballal/React-Pizzeria-Webapp-Frontend/assets/83124953/b73db566-5d90-4c74-a9e9-2a6127cafa25)
+
+  
+<li /> Contact Page: Standad React form for Contacting the pizzeria
+  
+![ContactUsSS](https://github.com/Siddhesh-Ballal/React-Pizzeria-Webapp-Frontend/assets/83124953/427a11ab-7b16-4544-86c6-8ea8921d7a31)
+</ul>
 
 # Getting Started with Create React App
 
