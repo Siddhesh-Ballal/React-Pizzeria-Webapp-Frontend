@@ -15,7 +15,7 @@ Welcome to Papa Sid's Pizzeria Web App repository! This web application is desig
 ![AboutPageSS](https://github.com/Siddhesh-Ballal/React-Pizzeria-Webapp-Frontend/assets/83124953/b73db566-5d90-4c74-a9e9-2a6127cafa25)
 
   
-<li /> Contact Page: Standad React form for Contacting the pizzeria
+<li /> Contact Page: Standard React form for Contacting the pizzeria
   
 ![ContactUsSS](https://github.com/Siddhesh-Ballal/React-Pizzeria-Webapp-Frontend/assets/83124953/427a11ab-7b16-4544-86c6-8ea8921d7a31)
 </ul>
