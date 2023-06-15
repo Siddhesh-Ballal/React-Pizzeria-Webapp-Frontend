@@ -1,3 +1,9 @@
+#Papa Sid's Pizzeria Web App
+
+Welcome to Papa Sid's Pizzeria Web App repository! This web application is designed to showcase the delicious offerings of Papa Sid's Pizzeria, where pizza is made with love and served with a smile. It allows customers to explore the menu, place orders, and get a taste of the pizzeria's mouthwatering creations
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
